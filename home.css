@@ -1,0 +1,28 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+form {
+    padding: 3px;
+    color: white;
+    display: inline-block;
+    font-family: sans-serif;
+  }
+
+  input {
+    background-color: blue;
+    color: aliceblue;
+    padding: 5px;
+    margin: 10px;
+  }
+
+  button {
+    padding: 5px;
+    margin: 5px;
+  }
+
+  .ep{
+    background-color: aqua;
+  }
