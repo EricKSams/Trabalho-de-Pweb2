@@ -1,0 +1,22 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: "Dhurjati", "Sans Seriff" ;
+}
+
+.alt{
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+}
+
+input {
+    background-color: blue;
+    color: aliceblue;
+    padding: 5px;
+    margin: 10px;
+  }
